@@ -27,9 +27,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   <a href="https://1it.pro/">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/domain.png" alt="Website" width="30" height="30" />
   </a>
-
 </p>
-
 
 # Enable WSL on Windows
 
