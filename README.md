@@ -24,10 +24,10 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   <a href="https://github.com/Shipssv83/Shipssv83/blob/main/Serhii Shypylov CV.pdf">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/resume.png" alt="Resume" width="30" height="30" />
   </a>
-  <a href="[https://www.instagram.com/your_username](https://www.instagram.com/shipssvpl/)">
+  <a href="https://www.instagram.com/shipssvpl/">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png" alt="Instagram" width="30" height="30" />
   </a>
-  <a href="[https://www.facebook.com/your_username](https://www.facebook.com/profile.php?id=100083345006373)">
+  <a href="https://www.facebook.com/profile.php?id=100083345006373">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/facebook.png" alt="Facebook" width="30" height="30" />
   </a>
 </p>
